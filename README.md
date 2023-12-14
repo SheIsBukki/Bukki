@@ -9,6 +9,4 @@ I'm a Content Writer and Product Manager currently learning Front-End Engineerin
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-end Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtobukolaogunleye2011@gmail.com.
-
 ---
